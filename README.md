@@ -1,4 +1,4 @@
-**Please wait, you are being redirected to [index.js](index.js)...**
+**Please wait, you are being redirected to [index.js](./pages/index.js)...**
 
 <script>
     setTimeout(function() {
