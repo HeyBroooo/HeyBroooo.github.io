@@ -2,6 +2,6 @@
 
 <script>
     setTimeout(function() {
-        window.location.href = 'index.js';
+        window.location.href = './pages/index.js';
     }, 2000); // Redirect after a 2-second delay (adjust as needed)
 </script>
